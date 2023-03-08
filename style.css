@@ -1,11 +1,6 @@
-body {
-	background: #CCCCCC
-}
-
-p {
+p{
 	text-align: center;
 }
-
-em strong {
-	color: #FF0000;
+body{
+	background-color: #69a0bb;
 }
